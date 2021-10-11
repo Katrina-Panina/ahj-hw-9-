@@ -46,9 +46,9 @@ export default class Collapse {
                 class: ['collapse__text'],
               },
               content:
-                'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Animi beatae commodi doloribus impedit' +
-                ' molestias non officiis quasi repellendus reprehenderit ut.' +
-                ' Aliquam at autem dolorum illo nulla optio quaerat recusandae sequi!',
+                ' Winter has come. It is cold. It freezes hardly.' +
+                ' The earth is covered with deep snowdrifts. Lakes and rivers are frozen over.' +
+                ' Trees are wrapped up with the silver shawl.',
             },
           ],
         },
